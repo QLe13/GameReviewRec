@@ -1,0 +1,6 @@
+openai
+deeplake 
+tiktoken
+langchain
+pandas
+openpyxl
